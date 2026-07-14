@@ -96,4 +96,4 @@ robinhood-chain-examples/
 
 ## License
 
-[Apache License 2.0](LICENSE) © 2026 nirholas.
+All rights reserved. See [LICENSE](LICENSE).
