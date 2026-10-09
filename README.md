@@ -184,3 +184,7 @@ while wiring these 14 examples against `hoodchain`:
 ## License
 
 All rights reserved. See [LICENSE](LICENSE).
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=nirholas/robinhood-chain-examples&type=Date)](https://www.star-history.com/#nirholas/robinhood-chain-examples&Date)
