@@ -1,0 +1,28 @@
+# robinhood-chain-examples
+
+> Runnable code examples for building on Robinhood Chain: SDK snippets, live price tickers, firehose consumers, agent scripts.
+
+robinhood-chain-examples is an open-source repository by nirholas, part of the three.ws ecosystem.
+
+## Docs
+
+- [README](https://github.com/nirholas/robinhood-chain-examples/blob/HEAD/README.md): install, usage and reference
+- [Prerequisites](https://github.com/nirholas/robinhood-chain-examples/blob/HEAD/README.md#prerequisites)
+- [Installing hoodchain](https://github.com/nirholas/robinhood-chain-examples/blob/HEAD/README.md#installing-hoodchain)
+- [Which package do I need?](https://github.com/nirholas/robinhood-chain-examples/blob/HEAD/README.md#which-package-do-i-need)
+- [Examples](https://github.com/nirholas/robinhood-chain-examples/blob/HEAD/README.md#examples)
+- [Environment variables](https://github.com/nirholas/robinhood-chain-examples/blob/HEAD/README.md#environment-variables)
+- [Repository layout](https://github.com/nirholas/robinhood-chain-examples/blob/HEAD/README.md#repository-layout)
+- [Docs site](https://github.com/nirholas/robinhood-chain-examples/blob/HEAD/README.md#docs-site)
+- [SDK feedback (from building every example)](https://github.com/nirholas/robinhood-chain-examples/blob/HEAD/README.md#sdk-feedback-from-building-every-example)
+- [AGENTS.md](https://github.com/nirholas/robinhood-chain-examples/blob/HEAD/AGENTS.md): guidance for coding agents
+- [Full text for LLMs](https://github.com/nirholas/robinhood-chain-examples/blob/HEAD/llms-full.txt): the README inlined
+
+## Project
+
+- [Source](https://github.com/nirholas/robinhood-chain-examples)
+- [Issues](https://github.com/nirholas/robinhood-chain-examples/issues)
+- [Discussions](https://github.com/nirholas/robinhood-chain-examples/discussions)
+- [Homepage](https://nirholas.github.io/robinhood-chain-examples/)
+- [three.ws](https://three.ws): the platform this is part of
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme)
